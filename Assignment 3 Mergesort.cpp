@@ -1,11 +1,3 @@
-/*CS 340 Assignment #3 - Part 2 - Question 1
-
-Prajna Chakma  (Kevin)
-200361931
-
-Code References from: Mark Allen Weiss "DATA STRUCTUERS AND ALGORITHIM ANALYSIS IN C++ (FOURTH EDITION)" 
-
-*/
 #include <iostream>
 #include <stdlib.h>
 
